@@ -93,3 +93,50 @@ body{
     font-size: 40px;
     
 }
+
+ .news-content{
+    display: flex;
+  background-color: white;
+  padding: 48px;
+ }
+
+.news{
+    background-color: #dbd4d4;
+}
+.btn-4{
+    color: white;
+    font-weight: 800;
+    padding: 10px 20px;
+    background-color:green;
+    border-radius:8px ;
+}
+.bd-satelite{
+    display: flex;
+    
+}
+.news{
+  
+    margin: 20px 90px;
+    border-radius: 8px;
+}
+.img-last{
+    border-radius: 24px;
+    margin: 16px 0;
+}
+.des{
+    margin: 16px;
+}
+.bd-satelite{
+    margin: 0px 90px;
+}
+.satelite-content{
+    margin: 16px;
+}
+.img-5{
+    margin:16px 0;
+    border-radius: 24px;
+}
+.title{
+    font-size: 22px;
+    font-weight: 700;
+}
